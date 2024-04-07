@@ -1,1 +1,1 @@
-# -HeadHunter
+# Анализ резюме из HeadHunter
